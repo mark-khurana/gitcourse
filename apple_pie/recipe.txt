@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 New experimental recipe,v2 - conflict
+=======
+New experimental recipe,v2 -dundundun
+>>>>>>> experimental
 Plenty of steps!
 
 New step:
