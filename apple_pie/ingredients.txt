@@ -1,2 +1,6 @@
-Many things from the supermarket
-More sugar
+-Many things from the supermarket
+-Sugar
+-Apples
+-Flour
+-Eggs
+
