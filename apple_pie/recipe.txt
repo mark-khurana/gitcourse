@@ -1,4 +1,4 @@
-New experimental recipe,v2
+New experimental recipe,v2 - conflict
 Plenty of steps!
 
 New step:
