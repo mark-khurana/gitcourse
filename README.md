@@ -1,3 +1,3 @@
 # gitcourse
 
-change redme
+change readme
